@@ -10,6 +10,8 @@
     "type": "git"
   },
   "dependencies": {
-    "babel-preset-react": "^6.16.0"
+    "babel-preset-react": "^6.16.0",
+    "react": "^15.3.2",
+    "react-remarkable": "^1.1.1"
   }
 }
