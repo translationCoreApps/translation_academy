@@ -1,0 +1,15 @@
+{
+  "name": "translation_academy",
+  "version": "1.0.0",
+  "description": "A sub-module for translation academy",
+  "main": "View.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.16.0"
+  }
+}
