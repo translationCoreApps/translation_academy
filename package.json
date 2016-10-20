@@ -1,5 +1,5 @@
 {
-  "name": "translation_academy",
+  "name": "TranslationAcademy",
   "version": "1.0.0",
   "description": "A sub-module for translation academy",
   "main": "View.js",
