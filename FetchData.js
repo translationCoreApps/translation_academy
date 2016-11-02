@@ -10,8 +10,6 @@
 
 const api = window.ModuleApi;
 
-const TranslationAcademyScraper = require('./TranslationAcademyScraper');
-
 function fetchData(params, progress, callback) {
 	var sectionList = require('./SectionList.json');
 	api.putDataInCheckStore('TranslationAcademy', 'sectionList', sectionList.sectionList);
